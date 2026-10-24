@@ -18,6 +18,7 @@ ul li, ol li {
 
 .anchorList li {
     list-style: none;
+    text-align: center;
 }
 .anchorList li a{
     border: 1px solid black;
@@ -25,4 +26,17 @@ ul li, ol li {
     border-radius: 16px;
     padding: 0.5rem;
     display: inline-block;
+}
+
+h1{
+    text-align: center;
+}
+h1.h1IndexPage{
+    margin-left: 3rem;
+}
+img{
+    display: block;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 8px;
 }
