@@ -2,6 +2,15 @@ a {
     text-decoration: none;
 }
 
+a.anchorHome{
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    background-color:antiquewhite;
+    padding: 0.25rem;
+    margin: 0.5rem;
+    display: inline-block;
+}
+
 ul li, ol li {
 
     margin: 0.5rem;
